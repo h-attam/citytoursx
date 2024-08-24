@@ -10,3 +10,6 @@ City Tours, kullanıcıların çeşitli şehirlerdeki turistik yerler hakkında 
 - JavaScript
 - React
 - Scss
+
+# GIF
+ ![](images/citygif_2_.gif)
